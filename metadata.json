@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Incisioncc Investment Platform",
+  "description": "A minimalist investment platform with a 7-level VIP system, 3-level referral bonuses, and a secure manual withdrawal system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
